@@ -9,5 +9,49 @@
       "Unemployment": 5.0,
       "Date_codificado": 1.23,
       "Event_Type_codificado": 2.45
+    },
+{
+      "Store": 2,
+      "Dept": 15,
+      "IsHoliday": 1,
+      "Temperature": 60,
+      "Fuel_Price": 3.7,
+      "CPI": 260,
+      "Unemployment": 4.8,
+      "Date_codificado": 1.35,
+      "Event_Type_codificado": 2.75
+    },
+    {
+      "Store": 3,
+      "Dept": 10,
+      "IsHoliday": 0,
+      "Temperature": 65,
+      "Fuel_Price": 3.6,
+      "CPI": 245,
+      "Unemployment": 6.2,
+      "Date_codificado": 1.12,
+      "Event_Type_codificado": 2.15
+    },
+    {
+      "Store": 4,
+      "Dept": 25,
+      "IsHoliday": 0,
+      "Temperature": 55,
+      "Fuel_Price": 3.8,
+      "CPI": 240,
+      "Unemployment": 5.5,
+      "Date_codificado": 1.45,
+      "Event_Type_codificado": 2.85
+    },
+    {
+      "Store": 5,
+      "Dept": 30,
+      "IsHoliday": 1,
+      "Temperature": 72,
+      "Fuel_Price": 3.4,
+      "CPI": 255,
+      "Unemployment": 4.6,
+      "Date_codificado": 1.75,
+      "Event_Type_codificado": 3.15
     }
 }
