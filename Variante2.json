@@ -1,8 +1,8 @@
 {
     {
       "Store": 1,
-      "Dept": 20,
       "IsHoliday": 0,
+      "Dept": 20,
       "Temperature": 70,
       "Fuel_Price": 3.5,
       "CPI": 250,
@@ -10,10 +10,10 @@
       "Date_codificado": 1.23,
       "Event_Type_codificado": 2.45
     },
-{
+    {
       "Store": 2,
-      "Dept": 15,
       "IsHoliday": 1,
+      "Dept": 15,
       "Temperature": 60,
       "Fuel_Price": 3.7,
       "CPI": 260,
@@ -23,8 +23,8 @@
     },
     {
       "Store": 3,
-      "Dept": 10,
       "IsHoliday": 0,
+      "Dept": 10,
       "Temperature": 65,
       "Fuel_Price": 3.6,
       "CPI": 245,
@@ -34,8 +34,8 @@
     },
     {
       "Store": 4,
-      "Dept": 25,
       "IsHoliday": 0,
+      "Dept": 25,
       "Temperature": 55,
       "Fuel_Price": 3.8,
       "CPI": 240,
@@ -45,8 +45,8 @@
     },
     {
       "Store": 5,
-      "Dept": 30,
       "IsHoliday": 1,
+      "Dept": 30,
       "Temperature": 72,
       "Fuel_Price": 3.4,
       "CPI": 255,
