@@ -1,4 +1,4 @@
-{
+[
     {
       "Store": 1,
       "IsHoliday": 0,
@@ -54,4 +54,4 @@
       "Date_codificado": 1.75,
       "Event_Type_codificado": 3.15
     }
-}
+]
