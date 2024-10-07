@@ -1,0 +1,11 @@
+{
+    {
+      "Store": 1,
+      "Dept": 20,
+      "IsHoliday": 0,
+      "Temperature": 70,
+      "Fuel_Price": 3.5,
+      "CPI": 250,
+      "Unemployment": 5.0
+    }
+}
