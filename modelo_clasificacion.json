@@ -1,0 +1,23 @@
+[
+    {
+        "Job_Level_Senior": 1,
+        "Marital_Status_Married": 0,
+        "Remote_Work_Yes": 1,
+        "Work-Life_Balance_Fair": 1,
+        "Marital_Status_Single": 0
+    },
+    {
+        "Job_Level_Senior": 0,
+        "Marital_Status_Married": 1,
+        "Remote_Work_Yes": 0,
+        "Work-Life_Balance_Fair": 0,
+        "Marital_Status_Single": 1
+    },
+    {
+        "Job_Level_Senior": 1,
+        "Marital_Status_Married": 1,
+        "Remote_Work_Yes": 1,
+        "Work-Life_Balance_Fair": 1,
+        "Marital_Status_Single": 0
+    }
+]
